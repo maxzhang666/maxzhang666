@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Max's github stats](https://github-readme-stats.vercel.app/api?username=maxzhang666&show_icons=true)](https://github.com/maxzhang666/github-readme-stats)
 
-[![Max's used](https://github-readme-stats.vercel.app/api/top-langs?username=maxzhang666&theme=algolia&locale=cn "Max's used")](https://github-readme-stats.vercel.app/api/top-langs?username=maxzhang666&theme=algolia&locale=cn)
+[![Max's used](https://github-readme-stats.vercel.app/api/top-langs?username=maxzhang666 "Max's used")](https://github-readme-stats.vercel.app/api/top-langs?username=maxzhang666)
