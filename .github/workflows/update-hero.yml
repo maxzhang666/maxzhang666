@@ -1,0 +1,44 @@
+name: Update profile hero
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - "tools/generate_hero.py"
+      - ".github/workflows/update-hero.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-hero
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate hero from GitHub data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python tools/generate_hero.py
+      - name: Commit updated hero
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/hero.svg
+          if git diff --staged --quiet; then
+            echo "hero is already up to date"
+          else
+            git commit -m "chore: refresh profile hero"
+            git push
+          fi

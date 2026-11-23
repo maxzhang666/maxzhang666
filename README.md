@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- Generated from live GitHub profile data by tools/generate_hero.py. -->
 <img src="assets/hero.svg" width="100%" alt="Max Zhang — AI Engineer, Open Source Builder, Full Stack Developer" />
 
 <br/>
