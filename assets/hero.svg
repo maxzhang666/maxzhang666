@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="390" viewBox="0 0 960 390" role="img" aria-labelledby="title description">
+  <title id="title">MaxZhang — live GitHub profile</title>
+  <desc id="description">A terminal-style profile card with GitHub repository, star, follower, tenure, and primary-language statistics.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#151923"/>
+      <stop offset="1" stop-color="#242230"/>
+    </linearGradient>
+    <style>
+      .label { fill: #9798a7; font: 11px ui-monospace, SFMono-Regular, Consolas, monospace; letter-spacing: 1.2px; }
+      .value { fill: #f5eee5; font: 22px ui-monospace, SFMono-Regular, Consolas, monospace; }
+      .small { fill: #b6b5c0; font: 11px ui-monospace, SFMono-Regular, Consolas, monospace; }
+    </style>
+  </defs>
+  <rect width="960" height="390" rx="20" fill="url(#background)"/>
+  <rect x="1" y="1" width="958" height="388" rx="19" fill="none" stroke="#42404c"/>
+  <circle cx="27" cy="27" r="5" fill="#ef8065"/><circle cx="46" cy="27" r="5" fill="#f2bc74"/><circle cx="65" cy="27" r="5" fill="#8da58b"/>
+  <text x="86" y="31" fill="#aaa9b4" font-family="monospace" font-size="12">maxzhang666@github:~ $ profile --refresh</text>
+  <path d="M24 50h912" stroke="#393744"/>
+  <text x="42" y="83" fill="#f1bc75" font-family="monospace" font-size="12" letter-spacing="1.5">LIVE PROFILE / PUBLIC GITHUB DATA</text>
+  <text x="42" y="133" fill="#888da7" font-family="monospace" font-size="15" xml:space="preserve">.</text>
+<text x="159" y="150" fill="#ffe0a0" font-family="monospace" font-size="15" xml:space="preserve">****##****</text>
+<text x="132" y="167" fill="#ffe0a0" font-family="monospace" font-size="15" xml:space="preserve">+****######****+</text>
+<text x="123" y="184" fill="#ffc06e" font-family="monospace" font-size="15" xml:space="preserve">***####%%%%####***</text>
+<text x="114" y="201" fill="#ffc06e" font-family="monospace" font-size="15" xml:space="preserve">**####%%%@@%%%####**</text>
+<text x="114" y="218" fill="#ffc06e" font-family="monospace" font-size="15" xml:space="preserve">###%%%%@@@@@@%%%%###</text>
+<text x="114" y="252" fill="#f59660" font-family="monospace" font-size="15" xml:space="preserve">***####%%%%%%####***</text>
+<text x="150" y="286" fill="#e57470" font-family="monospace" font-size="15" xml:space="preserve">****####****</text>
+<text x="51" y="303" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">/</text>
+<text x="78" y="303" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">/</text>
+<text x="105" y="303" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">/</text>
+<text x="132" y="303" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">/</text>
+<text x="159" y="303" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">/</text>
+<text x="186" y="303" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">/</text>
+<text x="213" y="303" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">\</text>
+<text x="240" y="303" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">\</text>
+<text x="267" y="303" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">\</text>
+<text x="294" y="303" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">\</text>
+<text x="321" y="303" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">\</text>
+<text x="348" y="303" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">\</text>
+<text x="60" y="320" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">/</text>
+<text x="96" y="320" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">/</text>
+<text x="132" y="320" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">/</text>
+<text x="168" y="320" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">/</text>
+<text x="204" y="320" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">\</text>
+<text x="240" y="320" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">\</text>
+<text x="276" y="320" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">\</text>
+<text x="312" y="320" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">\</text>
+<text x="348" y="320" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">\</text>
+<text x="51" y="337" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">/</text>
+<text x="96" y="337" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">/</text>
+<text x="141" y="337" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">/</text>
+<text x="186" y="337" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">/</text>
+<text x="231" y="337" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">\</text>
+<text x="276" y="337" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">\</text>
+<text x="321" y="337" fill="#a66f9a" font-family="monospace" font-size="15" xml:space="preserve">\</text>
+  <text x="42" y="363" fill="#9996a4" font-family="monospace" font-size="11">repo language mix · refreshed 2026-11-23</text>
+  <path d="M407 72v282" stroke="#44414e"/>
+  <text x="432" y="88" fill="#f7f1e9" font-family="system-ui, sans-serif" font-size="27" font-weight="700">MaxZhang</text>
+  <text x="432" y="108" fill="#d58c71" font-family="monospace" font-size="12">@maxzhang666</text>
+  <text x="432" y="128" class="label">PUBLIC REPOS</text><text x="432" y="155" class="value">159</text><text x="706" y="128" class="label">STARS</text><text x="706" y="155" class="value">1085</text><text x="432" y="191" class="label">FOLLOWERS</text><text x="432" y="218" class="value">41</text><text x="706" y="191" class="label">ON GITHUB</text><text x="706" y="218" class="value">11 years</text>
+  <path d="M432 257h482" stroke="#44414e"/>
+  <text x="432" y="274" class="label">PRIMARY LANGUAGES · REPOSITORY COUNT</text>
+  <text x="432" y="282" class="small">PHP</text><rect x="565" y="272" width="145" height="7" rx="3.5" fill="#343442"/><rect x="565" y="272" width="145.0" height="7" rx="3.5" fill="#f5c16c"/><text x="721" y="282" class="small">27</text><text x="432" y="299" class="small">JavaScript</text><rect x="565" y="289" width="145" height="7" rx="3.5" fill="#343442"/><rect x="565" y="289" width="107.4" height="7" rx="3.5" fill="#f28a62"/><text x="721" y="299" class="small">20</text><text x="432" y="316" class="small">Python</text><rect x="565" y="306" width="145" height="7" rx="3.5" fill="#343442"/><rect x="565" y="306" width="75.2" height="7" rx="3.5" fill="#de6680"/><text x="721" y="316" class="small">14</text><text x="432" y="333" class="small">TypeScript</text><rect x="565" y="323" width="145" height="7" rx="3.5" fill="#343442"/><rect x="565" y="323" width="48.3" height="7" rx="3.5" fill="#aa78b7"/><text x="721" y="333" class="small">9</text><text x="432" y="350" class="small">C#</text><rect x="565" y="340" width="145" height="7" rx="3.5" fill="#343442"/><rect x="565" y="340" width="43.0" height="7" rx="3.5" fill="#7d91ca"/><text x="721" y="350" class="small">8</text>
+</svg>
