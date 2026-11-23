@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Max Zhang — AI Engineer and Open Source Builder</title>
+  <desc id="description">A warm terminal-inspired profile banner with a geometric sunset and a sample code prompt.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#151923"/>
+      <stop offset="1" stop-color="#252331"/>
+    </linearGradient>
+    <linearGradient id="sunset" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd28a"/>
+      <stop offset="1" stop-color="#f07854"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f7bd78"/>
+      <stop offset="1" stop-color="#ed8064"/>
+    </linearGradient>
+    <clipPath id="sun-clip">
+      <circle cx="970" cy="170" r="91"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="320" rx="22" fill="url(#background)"/>
+  <path d="M720 0h480v320H840c86-54 127-125 93-194C900 54 818 20 720 0Z" fill="#ffffff" opacity=".025"/>
+
+  <g opacity=".17" stroke="#f1c99a" stroke-width="1">
+    <path d="M800 252h355M820 270h315M855 288h245"/>
+    <path d="M865 220v90M905 220v90M945 220v90M985 220v90M1025 220v90M1065 220v90M1105 220v90"/>
+  </g>
+
+  <g transform="translate(46 38)">
+    <circle cx="7" cy="7" r="5" fill="#ef8065"/>
+    <circle cx="25" cy="7" r="5" fill="#f2bc74"/>
+    <circle cx="43" cy="7" r="5" fill="#8da58b"/>
+    <text x="66" y="12" fill="#a5a9b5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">max@github: ~</text>
+  </g>
+
+  <text x="48" y="117" fill="#f4bd78" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="2">AI ENGINEER / OPEN SOURCE BUILDER</text>
+  <text x="44" y="183" fill="#f7f3ed" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="52" font-weight="700" letter-spacing="-2">Hello, I'm Max.</text>
+  <text x="48" y="222" fill="#b9bbc4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">I turn curious ideas into useful software.</text>
+  <path d="M48 251h390" stroke="url(#accent)" stroke-width="2" opacity=".8"/>
+  <text x="48" y="278" fill="#8f929d" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">$ git status --short</text>
+  <text x="194" y="278" fill="#93b49a" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">always building</text>
+
+  <circle cx="970" cy="170" r="91" fill="url(#sunset)"/>
+  <g clip-path="url(#sun-clip)" stroke="#252331" stroke-width="9" opacity=".8">
+    <path d="M868 153h204M866 171h208M869 189h202M875 207h190M885 225h170M902 243h136"/>
+  </g>
+  <path d="M844 255c48-35 81-44 126-44s79 9 126 44" fill="none" stroke="#ef9a6e" stroke-width="2" opacity=".8"/>
+  <text x="970" y="292" text-anchor="middle" fill="#c6a9a0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="2">BUILD · SHARE · LEARN</text>
+</svg>
